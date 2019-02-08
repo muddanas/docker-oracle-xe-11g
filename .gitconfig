@@ -1,0 +1,11 @@
+[user]
+	name = Srikanth Muddana
+	email = msk1279@gmail.com
+[colour]
+	branch = auto
+	status = auto
+	ui = auto
+[color]
+	ui = auto
+	branch = auto
+	status = auto
